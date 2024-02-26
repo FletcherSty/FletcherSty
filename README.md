@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FletcherSty
-- 👀 I’m interested in Programming & Marketing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Private Projects
+- 👀 I’m interested in Programming & Music
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Private / Public Projects
 - 📫 How to reach me nonononono
